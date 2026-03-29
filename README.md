@@ -24,4 +24,4 @@ The objective of this project is to develop a Python-based Command Line Interfac
 **Answer:** Non-repudiation is ensured because a digital signature can only be created using the sender's **Private Key**, which is kept secret and accessible only to them. Since the signature can be verified by anyone using the corresponding **Public Key**, a successful verification proves that the signature must have been created by the owner of that specific private key. Therefore, the sender cannot later deny having signed or sent the document. 
 
 ## 4. Conclusion
-"TrustVerify" successfully demonstrates the dual requirements of modern cybersecurity: ensuring that data remains unchanged (Integrity) and confirming the true identity of the source (Authenticity) through Digital Signatures.
+"TrustVerify" successfully demonstrates the dual requirements of modern cybersecurity: ensuring that data remains unchanged (Integrity) and confirming the true identity of the source (Authenticity) through Digital Signatures. 
